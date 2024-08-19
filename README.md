@@ -80,3 +80,13 @@ php artisan serve
 
 
 According to this example, our project is loaded at http://localhost:8000/.
+
+
+## Views
+
+![1](https://github.com/user-attachments/assets/aaaff4da-f9b3-440f-b18b-2f113754985b)
+
+![2](https://github.com/user-attachments/assets/f86538d4-4dc6-4c19-a959-02c15a2392d4)
+
+![3](https://github.com/user-attachments/assets/29aee52f-5e2e-493f-8f81-06fba0bdec48)
+
