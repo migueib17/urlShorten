@@ -16,7 +16,8 @@ import ApplicationLogo from '@/Components/ApplicationLogo.vue';
                 This simple example consists of three sections: Dashboard, with a pie graph showing the clicks count about top 5 URLs; Urls, this section 
                 list into a table the urls management; Add Url Shortened, this is the section where URLs are added and shortened.
                 <br />
-                    You need to authenticate or register to access the app.
+                Since it is a simple exercise, the CSS styles are not centralized and it has been decided to apply them within the view, although it is not a recommended practice.
+                You need to authenticate or register to access the app, it´s too easy in two steps.
             </p>
         </div>
 
